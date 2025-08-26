@@ -1,4 +1,5 @@
 https://www.acmicpc.net/user/kijqq15
+https://solved.ac/profile/kijqq15
 
 ```html
 # DFS, BFS
