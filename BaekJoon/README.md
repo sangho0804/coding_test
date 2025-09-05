@@ -30,6 +30,7 @@ https://solved.ac/profile/kijqq15
 
 # queue
 └ 1966. 프린터 큐 [S3]  
+└ 10845. 큐 [S4]  
 └ 11866. 요세푸스 문제 0 [S4]  
 
 
