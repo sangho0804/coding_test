@@ -2,6 +2,9 @@ https://www.acmicpc.net/user/kijqq15 \\
 https://solved.ac/profile/kijqq15
 
 ```html
+# BruteForce
+└ 1018. 체스판 다시 칠하기 [S3]
+
 # DFS, BFS
 └ 1260. DFS와 BFS [S3]
 

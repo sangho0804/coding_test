@@ -29,5 +29,3 @@ for _ in range(n):
         b = -1 if len(arr) == 0 else arr[-1]
         print(b)
     
-
-    
