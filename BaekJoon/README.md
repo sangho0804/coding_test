@@ -2,6 +2,9 @@ https://www.acmicpc.net/user/kijqq15 \\
 https://solved.ac/profile/kijqq15
 
 ```html
+# binary search
+└ 10816. 숫자 카드 2 [S4]
+
 # BruteForce
 └ 1018. 체스판 다시 칠하기 [S3]
 
@@ -33,11 +36,13 @@ https://solved.ac/profile/kijqq15
 
 # queue
 └ 1966. 프린터 큐 [S3]  
+└ 2164. 카드2 [S4]  
 └ 10845. 큐 [S4]  
 └ 11866. 요세푸스 문제 0 [S4]  
 
 
 # stack
 └ 1874. 스택 수열 [S2]  
-
+└ 9012. 괄호 [S4]  
+└ 10773. 제로 [S4]  
 ```
