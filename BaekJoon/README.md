@@ -5,8 +5,12 @@ https://solved.ac/profile/kijqq15
 # binary search
 └ 10816. 숫자 카드 2 [S4]
 
+# bit masking
+└ 11723. 집합 [S5]
+
 # BruteForce
 └ 1018. 체스판 다시 칠하기 [S3]
+└ 14500. 테트로미노 [G4]
 
 # DFS, BFS
 └ 1260. DFS와 BFS [S3]
