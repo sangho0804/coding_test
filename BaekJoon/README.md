@@ -30,6 +30,7 @@ https://solved.ac/profile/kijqq15
 
 # Map
 └ 1620. 나는야 포켓몬 마스터 이다솜 [S4]   
+└ 1764. 듣보잡 [S4]
 
 # Math
 └ 1008. A/B [B5]   
