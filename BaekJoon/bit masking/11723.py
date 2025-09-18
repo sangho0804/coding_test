@@ -1,4 +1,4 @@
-# # my code
+# # my code 5328 ms
 # import sys
 # rd = sys.stdin.readline
 
@@ -48,14 +48,12 @@
 #                 arr[i][1] = 0
         
 
-# gpt code 
+# gpt code 3088 ms
 import sys
 input = sys.stdin.readline
 
 M = int(input())
 S = 0                       # 공집합
-
-#out = []
 
 for _ in range(M):
     cmd = input().split()
@@ -70,7 +68,6 @@ for _ in range(M):
 
     elif cmd[0] == 'check':
         x = int(cmd[1])
-        # out.append('1' if (S & (1 << (x - 1))) else '0')
         x = '1' if (S & (1 << (x - 1))) else '0'
         print(x)
 
@@ -83,5 +80,3 @@ for _ in range(M):
 
     elif cmd[0] == 'empty':
         S = 0
-
-# sys.stdout.write("\n".join(out))

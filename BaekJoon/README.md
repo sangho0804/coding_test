@@ -28,6 +28,9 @@ https://solved.ac/profile/kijqq15
 └ 10809. 알파벳 찾기 [B2]  
 └ 18110. solved.ac [S4]  
 
+# Map
+└ 1620. 나는야 포켓몬 마스터 이다솜 [S4]   
+
 # Math
 └ 1008. A/B [B5]   
 └ 1929. 소수 구하기 [S3]
