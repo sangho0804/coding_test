@@ -15,7 +15,13 @@ https://solved.ac/profile/kijqq15
 # DFS, BFS
 └ 1260. DFS와 BFS [S3]
 
+# DP
+└ 1463. 1로 만들기 [S3]
+└ 2579. 계단오르기 [S3]
+
 # greedy
+└ 11047. 동전 0 [S4]   
+└ 11399. ATM [S4]
 └ 47769. 소가 길을 건너간 이유 3 [S4]   
 
 # 구현
@@ -31,6 +37,7 @@ https://solved.ac/profile/kijqq15
 # Map
 └ 1620. 나는야 포켓몬 마스터 이다솜 [S4]   
 └ 1764. 듣보잡 [S4]
+└ 17219. 비밀번호 찾기 [S4]
 
 # Math
 └ 1008. A/B [B5]   
