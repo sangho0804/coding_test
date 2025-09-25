@@ -11,6 +11,7 @@ https://solved.ac/profile/kijqq15
 # BruteForce
 └ 1018. 체스판 다시 칠하기 [S3]
 └ 14500. 테트로미노 [G4]
+└ 17626. Four Squares [G4]
 
 # DFS, BFS
 └ 1260. DFS와 BFS [S3]
