@@ -1,5 +1,35 @@
+from collections import deque
 import sys
-rd  = sys.stdin.readline
+input = sys.stdin.readline
 
-T = int(rd().strip())
+def bfs(field, visited, x, y, N, M):
+    queue = deque([(x, y)])
+    visited[y][x] = True
+    dx = [0, 0, -1, 1]
+    dy = [-1, 1, 0, 0]
+    while queue:
+        cx, cy = queue.popleft()
+        for i in range(4):
+            nx, ny = cx + dx[i], cy + dy[i]
+            if 0 <= nx < M and 0 <= ny < N and not visited[ny][nx] and field[ny][nx] == 1:
+                visited[ny][nx] = True
+                queue.append((nx, ny))
 
+T = int(input())
+for _ in range(T):
+    M, N, K = map(int, input().split())
+    field = [[0] * M for _ in range(N)]
+    visited = [[False] * M for _ in range(N)]
+
+    for _ in range(K):
+        x, y = map(int, input().split())
+        field[y][x] = 1
+
+    count = 0
+    for y in range(N):
+        for x in range(M):
+            if field[y][x] == 1 and not visited[y][x]:
+                bfs(field, visited, x, y, N, M)
+                count += 1
+
+    print(count)
