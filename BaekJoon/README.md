@@ -3,6 +3,7 @@ https://solved.ac/profile/kijqq15
 
 ```html
 # binary search
+└ 1654.  랜선 자르기 [S2]
 └ 10816. 숫자 카드 2 [S4]
 
 # bit masking
@@ -31,8 +32,12 @@ https://solved.ac/profile/kijqq15
 └ 11399. ATM [S4]
 └ 47769. 소가 길을 건너간 이유 3 [S4]   
 
+# Heap
+└ 1927. 최소 힙 [S2]
+
 # 구현
 └ 1152. 단어의 개수 [B2]   
+└ 1542. 잃업버린 괄호 [S2]   
 └ 1978. 소수 찾기 [B2]  
 └ 2231. 분해 합 [B2]   
 └ 2675. 문자열 반복 [B2]   
