@@ -18,6 +18,7 @@ https://solved.ac/profile/kijqq15
 # DFS, BFS
 └ 1012. 유기농 배추 [S2]
 └ 1260. DFS와 BFS [S3]
+└ 11724. 연결 요소의 개수 [S2]
 
 # DP
 └ 1463. 1로 만들기 [S3]
