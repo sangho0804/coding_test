@@ -4,6 +4,7 @@ https://solved.ac/profile/kijqq15
 ```html
 # binary search
 └ 1654.  랜선 자르기 [S2]
+└ 2805. 나무 자르기 [S2]
 └ 10816. 숫자 카드 2 [S4]
 
 # bit masking
@@ -34,12 +35,14 @@ https://solved.ac/profile/kijqq15
 
 # Heap
 └ 1927. 최소 힙 [S2]
+└ 11279. 최대 힙 [S2]
 
-# 구현
+# implement
 └ 1152. 단어의 개수 [B2]   
 └ 1542. 잃업버린 괄호 [S2]   
 └ 1978. 소수 찾기 [B2]  
 └ 2231. 분해 합 [B2]   
+└ 2630. 색종이 만들기 [S2]  
 └ 2675. 문자열 반복 [B2]   
 └ 2753. 별찍기 - 2 [B4]   
 └ 2920. 음계 [B2]   
