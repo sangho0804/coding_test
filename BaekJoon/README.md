@@ -14,6 +14,7 @@ https://solved.ac/profile/kijqq15
 └ 1018. 체스판 다시 칠하기 [S3]
 └ 14500. 테트로미노 [G4]
 └ 17626. Four Squares [G4]
+└ 18111. 마인크레프트 [S2]
 
 # DFS, BFS
 └ 1012. 유기농 배추 [S2]
